@@ -1,7 +1,6 @@
 ## The 2 functions below create a special object that stores a matrix and caches its inverse.
 ## The code assume that the input matrix is invertible.
 
-
 ## 'makeCacheMatrix' : This first function returns a list that contains a set of functions 
 ## that are returned to the parent environment.
 ## The functions in the list store the 'x' matrix and create a cache that can store 
