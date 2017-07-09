@@ -1,5 +1,4 @@
-## The 2 functions below two functions that are used to create a special object 
-##that stores a matrix and cache's its inverse.
+## The 2 functions below create a special object that stores a matrix and caches its inverse.
 ## The code assume that the input matrix is invertible.
 
 
